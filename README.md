@@ -1,4 +1,4 @@
-### Olá, me chamo Kevin 👋
+### Olá, sou o Kevin 👋
 
 ##
 
