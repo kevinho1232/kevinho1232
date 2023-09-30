@@ -16,7 +16,7 @@
   <img align="center" alt="Kevin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img aling="center" alt="Kevin-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Kevin-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Kevin-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c#-original.svg">
+  <img align="center" alt="Kevin-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
 ##
