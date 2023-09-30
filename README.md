@@ -4,7 +4,7 @@
 
 - 🔭 Estou a procuda do meu primeiro emprego de DEV Front-end;
 - 🌱 Cursando o ensino superior: Sistema de Informação;
-- 👯 Aprendendo: HTML, Css, JavaScript, typeScript e React.js;
+- 👯 Aprendendo: HTML5, Css3, JavaScript, React.js, Java, C# e Sass;
 - 🤔 Tenho +10 cursos pela alura e udemy;
 - 💬 Facilidade em trabalhar em equipe;
 - 📫 Sempre em busca de conhecimento, afinal isso transforma vidas.
